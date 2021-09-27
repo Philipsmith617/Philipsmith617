@@ -8,7 +8,7 @@
 Click WA logo to Join Philip's Group, the creator is Philip🤭👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HKWDIBNYUwc1nq80gzu3HN)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BzHIOupGLR53IACsSQHzZk)
   <div align="center">
        
 
